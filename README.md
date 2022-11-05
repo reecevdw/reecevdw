@@ -1,16 +1,14 @@
-### Hi there 👋
+## Ernest (Reece) VanDeWeghe IV
 
-<!--
-**reecevdw/reecevdw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello All,
+  This is my repository for my personal website found at [website](https://www.ernestvandeweghe.com). I am studying at the **University of Chicago**. I am pursuing a **B.S in Computer Science** with a *specialization in machine learning*. I am also pursuing a **B.A in Economics** with a *specialization in business*. I am looking towards a joint masters in Computer Science and Business Administration. My interests include, but are not limited to: 
+ - investment banking
+ - quantitative finance
+ - venture capital
+ - entrepreneurship
+ - artificial intelligence
+ - blockchain
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linkedin
+ Reach out to my [LinkedIn](https://www.linkedin.com/in/reece-vandeweghe/) and feel free to make a connection and message me. I also have my prior work experience, skills, and volunteer work on display. 
+ 
